@@ -1,0 +1,9 @@
+/artifacts
+/cache
+/.vscode
+/node_modules
+/merged
+/scripts
+/typechain
+/types
+/.env
